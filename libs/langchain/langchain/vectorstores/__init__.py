@@ -27,6 +27,7 @@ from langchain.vectorstores.matching_engine import MatchingEngine
 from langchain.vectorstores.milvus import Milvus
 from langchain.vectorstores.mongodb_atlas import MongoDBAtlasVectorSearch
 from langchain.vectorstores.myscale import MyScale, MyScaleSettings
+from langchain.vectorstores.nucliadb import NucliaDB
 from langchain.vectorstores.opensearch_vector_search import OpenSearchVectorSearch
 from langchain.vectorstores.pgembedding import PGEmbedding
 from langchain.vectorstores.pgvector import PGVector
